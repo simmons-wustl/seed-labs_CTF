@@ -47,6 +47,28 @@ Once CTFd is installed and running you're able to import the provided CTF challe
 5. After you have created the new Admin account, delete the default Admin account from the "Users" page.
 ![Delete the default Admin account](./images/delete_old_admin.png)
 
+#### View, Edit, and Create Challenges
+
+To view the existing challenges currently loaded into the CTFd platform:
+
+1. Navigate to the Admin Panel.
+![Select the Admin Panel](./images/point_to_admin_panel.png)
+2. Navigate to the Challenges page.
+![Select the Challenges Page](./images/point_to_challenges_page.png)
+3. See all of the challenges that are currently loaded into the CTFd platform.
+![View all challenges](./images/view_challenges.png)
+
+To create a new challenge:
+4. Select the ⊕ symbol.
+![Select the plus symbol to add a new challenge](./images/hit_plus_add_new_challenge.png)
+5. Fill out the pertinent challenge details on the next page.
+
+To view and edit the details of a challenge:
+6. Select the challenge name hyperlink.
+![View challenge details](./images/view_challenge_details.png)
+7. Modify any of the challenge details that you wish to change, then hit Update.
+![Edit challenge details](./images/edit_challenge_details.png)
+
 #### Importing challenges
 
 There are two main ways to import CTF challenges into the CTFd application.
