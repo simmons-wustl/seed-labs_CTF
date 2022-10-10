@@ -6,7 +6,7 @@
 
 This is the core of the entire SEED project, it consists
 of all the labs that we have developed and maintained
-for the past 18 years.
+for the past 20 years.
 
 
 ## History
