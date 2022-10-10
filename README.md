@@ -60,7 +60,7 @@ The SEED labs are divided into 6 categories, and each one has its own folder.
 
 ### Capture the Flags
 
-Please see the CTF README for more information about the CTF portion of this
+Please [read this](./ctf/README.md) for more information about the CTF portion of this
 project. The CTF challenges are divided into 4 categories, and each one has its
 own folder, located in the [ctf](./ctf/) directory.
 
