@@ -71,9 +71,14 @@ To view and edit the details of a challenge:
 
 #### Importing challenges
 
-There are two main ways to import CTF challenges into the CTFd application.
-First, make sure the CTFd application is running, then login to the admin portal using admin credentials.
-Next, navigate to `Admin Panel > Config > Backup`.
+There are two main ways to import CTF challenges into the CTFd application:
+1. Visit the CTFd site you launched above and click login using Admin credentials.
+![Click login on the CTFD landing page](./images/ctfd_landing_page.png)
+2. Navigate to the Admin Panel.
+![Select the Admin Panel](./images/point_to_admin_panel.png)
+3. Next, navigate to `Config > Backup`.
+![Navigate the import page](./images/navigate_import_page.png)
+
 From here there are two options: importing a `.zip` or importing `.csv`.
 There are a few differences between the two import options:
 
