@@ -87,12 +87,16 @@ There are a few differences between the two import options:
 * **This will overwrite any existing configurations you have in place**, including user accounts, challenges, files, etc. This essentially imports a snapshot of the CTFd application at the time the `.zip` file was generated.
 * Multiple challenges can be imported in a single `.zip` file.
 * Files needed to complete the challenges will be included when imported.
+* See the [CTFd documentation on importing `.zip` files](https://docs.ctfd.io/docs/imports/overview#importing-exported-data) for more information.
 
 ##### Importing challenges in `.csv` files
 
 * This will not overwrite any existing configurations you have in place.
 * Multiple challenges can be imported in a single `.csv` file.
 * Files needed to complete the challenge **will not** be included when imported.
+* See the [CTFd documentation on importing `.csv` files](https://docs.ctfd.io/docs/imports/csv) for more information.
+   * The `.csv` file used to import challenges must adhere to a specified layout.
+     Use the [CTFd challenges CSV template](https://docs.ctfd.io/assets/files/challenges-template-ede1d7042b4b1ce5f6a500e87dda483f.csv) to adhere to the required layout.
 
 #### Challenge Docker Containers
 
