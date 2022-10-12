@@ -8,7 +8,6 @@ This is the core of the entire SEED project, it consists
 of all the labs that we have developed and maintained
 for the past 20 years.
 
-
 ## History
 
 The SEED project started in 2002 by Wenliang Du, a professor at the Syracuse
@@ -33,18 +32,15 @@ The labs and platforms are open source, so universities,
 colleges, and high schools around the world
 can freely use them to enhance their curricula.
 
-
 ## Contributing
 
 Want to contribute? Great! Please take a few minutes to
 [read this](CONTRIBUTING.md)!
 
-
 ## License
 
 All the SEED labs in this repository use open-source licenses.
 You can [read this](LICENSE.md) for more details.
-
 
 ## Organization of this repository
 
@@ -52,12 +48,12 @@ You can [read this](LICENSE.md) for more details.
 
 The SEED labs are divided into 6 categories, and each one has its own folder.
 
-- ```category-crypto```:     For crypto labs
-- ```category-hardware```:   For hardware security labs
-- ```category-mobile```:     For mobile security labs
-- ```category-network```:    For network security labs
-- ```category-software```:   For software security labs
-- ```category-web```:        For web security labs
+- ```category-crypto```:   For crypto labs
+- ```category-hardware```: For hardware security labs
+- ```category-mobile```:   For mobile security labs
+- ```category-network```:  For network security labs
+- ```category-software```: For software security labs
+- ```category-web```:      For web security labs
 
 ### Capture the Flags
 
@@ -65,7 +61,7 @@ Please [read this](./ctf/README.md) for more information about the CTF portion o
 project. The CTF challenges are divided into 4 categories, and each one has its
 own folder, located in the [ctf](./ctf/) directory.
 
-- ```ctf/category-crypto```:     For crypto CTF challenges
-- ```ctf/category-network```:    For network security CTF challenges
-- ```ctf/category-software```:   For software security CTF challenges
-- ```ctf/category-web```:        For web security CTF challenges
+- ```ctf/category-crypto```:   For crypto CTF challenges
+- ```ctf/category-network```:  For network security CTF challenges
+- ```ctf/category-software```: For software security CTF challenges
+- ```ctf/category-web```:      For web security CTF challenges
