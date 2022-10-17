@@ -136,29 +136,3 @@ Once you log in, you should see a page with challenges for you to complete.
 Use the prompts and files provided to find the flags!
 
 ---
-
-## Credits
-
-* Some challenges are based on existing challenges from CTF sources [PicoCTF](https://www.picoctf.org/), [DEFCON Biohacking](https://www.defconbiohackingvillage.org/), and CSICTF.
-* This platform was originally developed by [Zack Kaplan](mailto:zack.kaplan@wustl.edu) as part of a Master's project at [Washington University in St. Louis (WUSTL)](https://wustl.edu/).
-* The work is being continued by [Dylan Simmons](mailto:dylan.simmons@wustl.edu) as part of a Master's project at WUSTL.
-* The project development is being advised by [Steve Cole](mailto:svcole@wustl.edu).
-
-## Feedback and Collaboration
-
-We'd love to hear your feedback and work together on this project!
-* If you're using this platform in your class, please send us an e-mail --  we'd love to know how and where the platform is being used.
-* If you'd like to fix a bug or generate a new challenge, you may fork this repo and initiate pull requests against it.
-* If you'd like to discuss the project and how you might use it in our class, please feel free to contact us directly via e-mail and we'd be happy to talk more about that.
-
-## Publications
-1. Zack Kaplan, Ning Zhang, and Stephen V. Cole. [A Capture The Flag (CTF) Platform and Exercises for an Intro to Computer Security Class. (ACM ITiCSE'22)](https://doi.org/10.1145/3502717.3532153)
-
-## Contact Info
-
-Please contact [Dylan Simmons](mailto:dylan.simmons@wustl.edu) or [Steve Cole](mailto:svcole@wustl.edu) with any:
-* Requests for admin credentials for the CTF challenges
-* Requests for CTF challenge solutions
-* Questions
-* Comments
-* Suggestions
